@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [QMK_CTRL_V2.PrjPcb]
+   Generated File[main-RoundHoles-Plated.TXT]
+   Generated File[main-RoundHoles-NonPlated.TXT]
+   Generated File[main-SlotHoles-Plated.TXT]
+   Generated File[main.LDP]
+   Generated File[main.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 2:31:45 AM On 7/31/2026
