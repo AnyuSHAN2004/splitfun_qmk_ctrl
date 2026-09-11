@@ -4,6 +4,8 @@
 
 An RP2040-based controller board designed specifically for split keyboards. The controller uses a four-layer PCB; the optional test board uses a two-layer PCB and simplifies programming and testing.
 
+<img width="711" height="525" alt="11445ddf666d41bc13a4c8eedbc09d9" src="https://github.com/user-attachments/assets/6a1b459b-faef-4de7-8348-a7f157e0231a" />
+
 [讲解视频](https://www.bilibili.com/video/BV1nbbW6kErh/)
 
 [Video Walkthrough (in Chinese)](https://www.bilibili.com/video/BV1nbbW6kErh/)
